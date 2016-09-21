@@ -48,7 +48,11 @@ p, li {
   color: #984d26;
 }
 
-
+/*-- =wallpaper ---*/
+.image-bg {
+  background-image: url(images/flat-grungy-summer-stripes-patterns-2.jpg);
+  background-repeat: repeat-y;
+}
 
 
 /* ---- Advanced ---- */
